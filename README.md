@@ -1,4 +1,4 @@
-<h2>Hello World! 👋🏻, I'm Daniel Cerezo!</h2>
+<h2>Hello World! 👋🏻, I'm Daniel!</h2>
 
 <a href="https://www.linkedin.com/in/daniel-cerezo/">
   <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
