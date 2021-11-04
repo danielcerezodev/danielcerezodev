@@ -5,6 +5,8 @@
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=danielcerezodev.danielcerezodev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
+### <img src="https://i.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.webp" width="50"> A little more about me...  
+
 ```kotlin
 package intro.daniel.cerezo
 
@@ -17,6 +19,6 @@ import world.continents.oceania.countries.newzealand as LivingIn
  * @author [DEV_NAME]
  */
  object Constants {
-     // Awesome developer name
+    // Awesome developer name
     const val DEV_NAME = "Daniel Cerezo"
  }
