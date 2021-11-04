@@ -44,7 +44,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
      // Things I am contanstantly trying to improve on
      val currentFocus = listOf("Android Mobile App Development")
      // Learning for personal projects
-     val currentlyLearning = listOf("React", "ASAP.NET")
+     val currentlyLearning = listOf("React", "ASP.NET")
  }
 ```
 
