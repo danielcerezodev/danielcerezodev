@@ -1,9 +1,9 @@
 <h2>Hello, World! I'm Daniel <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/danielcdev" target="_blank">
+<a target="_blank" rel="noopener noreferrer" href="https://www.linkedin.com/in/danielcdev">
   <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/5pokm97s8gu9cmu2xbccqa198" target="_blank">
+<a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/5pokm97s8gu9cmu2xbccqa198">
   <img align="left" alt="Daniel's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
@@ -53,7 +53,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
 ---
 If you like what I do, maybe consider buying me a coffee|hot chocolate|tea 👉👈
 
-<a href="https://www.buymeacoffee.com/danielcerezodev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>             
+<a target="_blank" rel="noopener noreferrer" href="https://www.buymeacoffee.com/danielcerezodev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>             
 ---
 <!--START_SECTION:waka-->
 ```text
@@ -61,4 +61,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" target="_blank">Inspired from this 😊</a>
+<a target="_blank" rel="noopener noreferrer"  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Inspired by</a>
