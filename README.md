@@ -28,7 +28,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
      const val NAME = "Daniel"
      val pronouns = "He/Him"
      val currentRole = "Android Engineer"
-     val placesVisited = listOf("Spain", "New Zealand", "France", "England", "Switzerland", "Monaco", "Italy", "Germany")
+     val placesVisited = listOf("ESP", "NZ", "FR", "UK", "CH", "MC", "IT", "DE")
      val askMeAbout = listOf("App dev", "tech", "Computers", "Video games", "Photography")
  }
  
