@@ -8,7 +8,7 @@
 ### 🔎 A little more about me...  
 
 ```kotlin
-package intro.daniel.cerezo
+package cerezo.daniel.intro
 
 import world.continents.europe.countries.spain as BornIn
 import world.continents.oceania.countries.newzealand as LivingIn
@@ -23,6 +23,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
      const val FIRST_NAME = "Daniel"
      const val LAST_NAME = "Cerezo"
      val pronouns = "He/Him"
+     val placesVisited = listOf("Spain", "New Zealand", "France", "England", "Switzerland", "Monaco", "Italy", "Germany")
      val askMeAbout = listOf("App dev", "tech", "Computers", "Video games", "Photography")
  }
  
@@ -40,3 +41,8 @@ import world.continents.oceania.countries.newzealand as LivingIn
      // Learning for personal projects
      val currentlyLearning = listOf("React", "ASAP.NET")
  }
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
+
+---
