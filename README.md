@@ -1,6 +1,4 @@
 <h2>Hello World! 👋🏻, I'm Daniel Cerezo!</h2>
-<p><em>Android Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
 
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=danielcerezodev.danielcerezodev)
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
@@ -23,6 +21,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
      const val FIRST_NAME = "Daniel"
      const val LAST_NAME = "Cerezo"
      val pronouns = "He/Him"
+     val currentRole = "Android Engineer"
      val placesVisited = listOf("Spain", "New Zealand", "France", "England", "Switzerland", "Monaco", "Italy", "Germany")
      val askMeAbout = listOf("App dev", "tech", "Computers", "Video games", "Photography")
  }
