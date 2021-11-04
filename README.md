@@ -3,10 +3,13 @@
 <a href="https://www.linkedin.com/in/daniel-cerezo/">
   <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
+
 <a href="https://open.spotify.com/user/5pokm97s8gu9cmu2xbccqa198">
   <img align="left" alt="Daniel's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
+
 ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=danielcerezodev.danielcerezodev)
+
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/)
 
 ### 🔎 A little more about me...  
