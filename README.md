@@ -1,4 +1,4 @@
-<h2>Hello World! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">🏻, I'm Daniel!</h2>
+<h2>Hello World! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Daniel!</h2>
 
 <a href="https://www.linkedin.com/in/danielcdev">
   <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
