@@ -47,4 +47,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
 
 ---
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
