@@ -1,6 +1,6 @@
 <h2>Hello World! 👋🏻, I'm Daniel!</h2>
 
-<a href="https://www.linkedin.com/in/daniel-cerezo/">
+<a href="https://www.linkedin.com/in/danielcdev">
   <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
@@ -14,7 +14,7 @@
 ### 🔎 A little more about me...  
 
 ```kotlin
-package cerezo.daniel.intro
+package intro.daniel
 
 import world.continents.europe.countries.spain as BornIn
 import world.continents.oceania.countries.newzealand as LivingIn
@@ -26,8 +26,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
  */
  object PersonalDetails {
      // Awesome developer name
-     const val FIRST_NAME = "Daniel"
-     const val LAST_NAME = "Cerezo"
+     const val NAME = "Daniel"
      val pronouns = "He/Him"
      val currentRole = "Android Engineer"
      val placesVisited = listOf("Spain", "New Zealand", "France", "England", "Switzerland", "Monaco", "Italy", "Germany")
