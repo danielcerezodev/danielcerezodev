@@ -20,8 +20,9 @@ import world.continents.oceania.countries.newzealand as LivingIn
  */
  object PersonalDetails {
      // Awesome developer name
-     const val DEV_NAME = "Daniel Cerezo"
-     val pronouns = "He | Him"
+     const val FIRST_NAME = "Daniel"
+     const val LAST_NAME = "Cerezo"
+     val pronouns = "He/Him"
      val askMeAbout = listOf("App dev", "tech", "Computers", "Video games", "Photography")
  }
  
