@@ -1,9 +1,9 @@
 <h2>Hello, World! I'm Daniel <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
 
-<a href="https://www.linkedin.com/in/danielcdev">
+<a href="https://www.linkedin.com/in/danielcdev" target="_blank">
   <img align="left" alt="Daniel's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-<a href="https://open.spotify.com/user/5pokm97s8gu9cmu2xbccqa198">
+<a href="https://open.spotify.com/user/5pokm97s8gu9cmu2xbccqa198" target="_blank">
   <img align="left" alt="Daniel's Spotify" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/spotify.svg" />
 </a>
 
@@ -61,4 +61,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Inspired from this 😊</a>
+<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme" target="_blank">Inspired from this 😊</a>
