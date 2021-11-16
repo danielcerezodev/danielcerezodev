@@ -51,7 +51,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 ---
-If you like what I do, maybe consider buying me a coffee|hot chocolate|tea 👉👈
+If you like what I do, maybe consider buying me a coffee|hot chocolate|tea 👈
 
 <a target="_blank" rel="noopener noreferrer" href="https://www.buymeacoffee.com/danielcerezodev"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150"></a>             
 ---
