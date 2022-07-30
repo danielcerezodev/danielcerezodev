@@ -61,4 +61,4 @@ No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 ---
-<a target="_blank" rel="noopener noreferrer"  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">Inspired by</a>
+<p>Inspired by <a target="_blank" rel="noopener noreferrer"  href="https://github.com/abhisheknaiidu/awesome-github-profile-readme">abhisheknaiidu</a></p.>
