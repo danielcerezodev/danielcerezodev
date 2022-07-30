@@ -27,7 +27,7 @@ import world.continents.oceania.countries.newzealand as LivingIn
      // Awesome developer name
      const val NAME = "Daniel"
      val pronouns = "He/Him"
-     val currentRole = "Android Engineer"
+     val currentRole = "Software Engineer"
      val placesVisited = listOf("ESP", "NZ", "FR", "UK", "CH", "MC", "IT", "DE")
      val askMeAbout = listOf("App dev", "tech", "Computers", "Video games", "Photography")
  }
@@ -37,12 +37,12 @@ import world.continents.oceania.countries.newzealand as LivingIn
  * If you would like an updated list get in contact with me!
  */
  object Knowledge {
-     val code = listOf("Kotlin", "Java", "Python", "C#", "JavaScript")
+     val code = listOf("Kotlin", "Java", "Swift", "Objective-C", "Python", "C#", "JavaScript")
      val backEnd = listOf("Django", "Flask")
      val databases = listOf("SQLite", "MySQL")
      val misc = listOf("REST API", "Firebase", "Lottie", "Coroutines", "Room", "WorkManager", "OkHTTP", "RxJava")
      // Things I am contanstantly trying to improve on
-     val currentFocus = listOf("Android Mobile App Development")
+     val currentFocus = listOf("Native Mobile App Development - Both Android and iOS")
      // Learning for personal projects
      val currentlyLearning = listOf("React", "ASP.NET")
  }
